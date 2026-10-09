@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Phyoe Phyo Mya Thein 👋
 
-<!--
-**Phyoephyoemyathein/Phyoephyoemyathein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Software Developer specializing in PHP, the Laravel framework, database management, and enterprise software maintenance. I enjoy building clean, scalable, and efficient web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools:
+* **Languages & Frameworks:** PHP, Laravel, JavaScript, HTML, CSS, Tailwind CSS, Delphi
+* **Databases:** MySQL, phpMyAdmin
+* **Tools & Environment:** Git, GitHub, VS Code, Cursor AI, Laragon, XAMPP, Postman, Jira
+
+---
+
+### 🚀 Featured Projects:
+* **[SaaS Flow](https://github.com/Phyoephyoemyathein/saas-flow):** A modern full-stack SaaS application boilerplate and workflow management system built with Laravel and Tailwind CSS, featuring secure authentication, role-based access control (RBAC), and activity logging.
+* **[Laptop Service & Computer Shop System](https://github.com/Phyoephyoemyathein/my-project):** A full-stack web application built with Laravel and Tailwind CSS designed to manage laptop service operations and provide a seamless shopping experience for computer components.
+
+---
+
+### 📫 Connect with me:
+* **LinkedIn:** [linkedin.com/in/phyophyomyathein96](https://www.linkedin.com/in/phyophyomyathein96/)
+* **Email:** phyoe572015@gmail.com
