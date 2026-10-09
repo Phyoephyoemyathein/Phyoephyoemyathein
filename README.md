@@ -7,7 +7,7 @@ I am a passionate Software Developer specializing in PHP, the Laravel framework,
 ### 💻 Tech Stack & Tools:
 * **Languages & Frameworks:** PHP, Laravel, JavaScript, HTML, CSS, Tailwind CSS, Delphi
 * **Databases:** MySQL, phpMyAdmin
-* **Tools & Environment:** Git, GitHub, VS Code, Cursor AI, Laragon, XAMPP, Postman, Jira
+* **Tools & Environment:** Git, GitHub, VS Cod, Laragon, XAMPP
 
 ---
 
