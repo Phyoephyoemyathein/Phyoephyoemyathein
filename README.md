@@ -5,8 +5,9 @@ I am a passionate Software Developer specializing in PHP, the Laravel framework,
 ---
 
 ### 💻 Tech Stack & Tools:
-- **Languages & Frameworks:** PHP, Laravel, JavaScript, HTML, CSS, Tailwind CSS, Delphi
-- **Databases:** MySQL, phpMyAdmin
+- **Languages & Frameworks:** PHP (Laravel Framework), JavaScript, HTML5, CSS3, Tailwind CSS, Alpine.js, Delphi
+- **Databases:** MySQL, SQL Server, phpMyAdmin
+- **Frontend & Utility Libraries:** Chart.js, HTML5-QRCode scanner, Mailtrap
 - **Tools & Environment:** Git, GitHub, VS Code, Laragon, XAMPP
 
 ---
